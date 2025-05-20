@@ -2,9 +2,9 @@
 @import 'tailwindcss';
 
 #app {
-  max-width: 90%;
+  /* max-width: 90%; */
+  /* padding: 2rem; */
   margin: 0 auto;
-  padding: 2rem;
   font-weight: normal;
 }
 
